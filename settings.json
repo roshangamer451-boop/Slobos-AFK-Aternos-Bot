@@ -1,7 +1,7 @@
 {
   "name": " Ad_bot",
   "bot-account": {
-    "username": "Sabito890",
+    "username": "Ad_afk_bot",
     "password": "677",
     "type": "online"
   },
@@ -53,7 +53,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
