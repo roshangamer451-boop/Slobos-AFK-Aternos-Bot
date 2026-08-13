@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": " Ad_bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "username": "Sabito890",
+    "password": "677",
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Animesmp20.aternos.me",
+    "port": 61566,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
