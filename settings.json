@@ -1,14 +1,14 @@
 {
-  "name": " Ad_bot",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Ad_afk_bot",
-    "password": "677",
+    "username": "Ad ko bot",
+    "password": "",
     "type": "online"
   },
   "server": {
     "ip": "magar96-SzFY.aternos.me",
     "port": 20861,
-    "version": "1.20",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -44,7 +44,7 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": false,
+      "enabled": true,
       "radius": 4,
       "speed": 3000
     },
@@ -53,14 +53,14 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": false,
+      "enabled": true,
       "interval": 10000
     }
   },
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
+    "beds": false,
     "chat": true,
     "console-commands": true
   },
@@ -84,4 +84,4 @@
   "chat": {
     "respond": true
   }
-}
+  }
